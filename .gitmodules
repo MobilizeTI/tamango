@@ -1,0 +1,4 @@
+[submodule "mblz_retail"]
+	path = mblz_retail
+	url = git@github.com:MobilizeDevTeam/mblz_retail.git
+	branch = 16.0-tamango
