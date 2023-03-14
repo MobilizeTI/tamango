@@ -2,3 +2,7 @@
 	path = mblz_retail
 	url = git@github.com:MobilizeDevTeam/mblz_retail.git
 	branch = 16.0
+[submodule "mblz_connector_odoo_web_sale"]
+	path = mblz_connector_odoo_web_sale
+	url = git@github.com:MobilizeDevTeam/mblz_connector_odoo_web_sale.git
+	branch = 16.0
